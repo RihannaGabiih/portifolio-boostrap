@@ -1,4 +1,4 @@
-##  Portfólio com Bootstrap
+## 🚀 Portfólio com Bootstrap
 
 Este projeto é um portfólio simples, criado com **Bootstrap 5** para treinar o uso do framework e apresentar meus projetos e contatos de forma organizada.  
 
